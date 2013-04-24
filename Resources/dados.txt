@@ -1,0 +1,132 @@
+{
+	"estados":[
+				{
+					"nome":"Minas Gerais",
+					"cidades":[
+						{
+							"nome":"Belo Horizonte",
+							"lojas":[
+								{
+									"nome": "BH SHOPPING",
+									"telefone": "+55 31 3286-2492",
+									"fone": "03132862492",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: BH - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "BH SHOPPING",
+									"telefone": "+55 31 3505-5170",
+									"fone": "03135055170",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "DEL REY",
+									"telefone": "+55 31 3415-6009",
+									"fone": "03134156009",
+									"endereco": "Av. Presidente Carlos Luz, 3001 - Pampulha - Loja: 2126",
+									"cep": "31250-010",
+									"latitude": "-19.869846",
+									"longitude": "-43.973873"
+								},
+								{
+									"nome": "DIAMOND MALL",
+									"telefone": "+55 31 3292-9055",
+									"fone": "03132929055",
+									"endereco": "Av. Olegário Maciel, 1600 - Lourdes - Nível: OM - Loja:072",
+									"cep": "30180-111",
+									"latitude": "-19.928118",
+									"longitude": "-43.946677"
+								},
+								{
+									"nome": "CARTIER | BH SHOPPING",
+									"telefone": "+55 31 3505-5170",
+									"fone": "03135055170",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "PÁTIO SAVASSI",
+									"telefone": "+55 31 3284-2552",
+									"fone": "03132842552",
+									"endereco": "Av. do Contorno, 6061 - Funcionários - Lojas: 249-250",
+									"cep": "30310-110",
+									"latitude": "-19.94006",
+									"longitude": "-43.93421"
+								},
+								{
+									"nome": "MB WATCHES",
+									"telefone": "+55 31 3505-5166",
+									"fone": "03135055166",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "MONTBLANC | BH SHOPPING",
+									"telefone": "+55 31 3505-5155",
+									"fone": "03135055155",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "ROLEX | BH SHOPPING",
+									"telefone": "+55 31 3505-5165",
+									"fone": "03135055165",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "SWATCH STORE | BH SHOPPING",
+									"telefone": "+55 31 3286-0079",
+									"fone": "03132860079",
+									"endereco": "BR 356, 3049 - Belvedere - Nível: Mariana - Loja: 029",
+									"cep": "30320-900",
+									"latitude": "-19.973843",
+									"longitude": "-43.94504"
+								},
+								{
+									"nome": "SWATCH STORE | PÁTIO SAVASSI",
+									"telefone": "+55 31 3288-3919",
+									"fone": "03132883919",
+									"endereco": "Av. do Contorno, 6061 - Funcionários - Loja: 217",
+									"cep": "30310-110",
+									"latitude": "-19.940271",
+									"longitude": "-43.933888"
+								}
+							]
+						}
+					]
+				},
+				{
+					"nome":"São Paulo",
+					"cidades":[
+						{
+							"nome":"São Paulo",
+							"lojas":[
+								{
+									"nome": "SWATCH STORE | ANÁLIA FRANCO",
+									"telefone": "+55 11 6643-4074",
+									"fone": "01166434074",
+									"endereco": "Av. Regente Feijó, 1.739 - Tatuapé",
+									"cep": "03342-000",
+									"latitude": "-23.561725",
+									"longitude": "-46.559706"
+								}
+							]
+						}
+					]
+				}
+			]
+}

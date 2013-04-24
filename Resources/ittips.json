@@ -1,0 +1,536 @@
+{
+    "ittips": [
+        {
+            "cidades": [
+                {
+                    "cidade": "Brasil",
+                    "button": "but_it4.png",
+                    "data": [
+                        {
+                            "title": "MIX GASTRONÔMICO",
+                            "image": "wine&bar.jpg",
+                            "texto": "Localizado na Vila Olímpia, em São Paulo, o Empório Eat propõe um novo conceito de compras e gastronomia. Um verdadeiro empório gastronômico, lá é possível encontrar desde produtos orgânicos para o dia a dia até cervejas especiais, passando por massas e ingredientes exclusivos. O local de 900 metros quadrados, aconchegante e bem decorado, ainda abriga uma rotisseria, restaurante, café, adega e bar. O Eat ainda incentiva os pequenos produtores disponibilizando marcas de produção artesanal difíceis de serem encontradas nos supermercados tradicionais, além de estimular os visitantes a consumirem produtos mais saudáveis e livres de agrotóxicos em sua Feira Gourmet.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "emporioeat.com.br",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PARADISE",
+                            "image": "Foto-Sergio-Louruz.jpg",
+                            "texto": "Com mais de 200 anos de história, o Parque Farroupilha, em Porto Alegre, é um ponto imperdível para quem passa pela capital gaúcha. Bem arborizado, dispões de inúmeras opções de lazer, como passeios de trenzinho e pedalinhos, o Mercado do Bom Fim, a Feira Ecológica, café entre outros. Parte do Patrimônio Histórico e Cultural da cidade, o Parque ainda dispõe de um maravilhoso orquidário, espelhos d'água, monumentos e charmosas fontes. Perfeito para um tranquilo passeio no fim de tarde ou um animado piquenique matutino.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "portoalegre.rs.gov.br",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "MULHERES MARCANTES!",
+                            "image": "fachada-nova_grande.jpg",
+                            "texto": "De 29 de abril a 30 de junho, o Centro Cultural Banco do Brasil do Rio de Janeiro recebe a incrível exposição “ELLES@ - Mulheres Artistas na Coleção do Centre Georges Pompidou”. A mostra reúne 125 obras de 75 mulheres marcantes das artes. O Brasil é representado por nomes de peso, como Lygia Clark, Anna Bella Geiger, Anna Maria Maiolino, entre muitas outras que marcam presença na seleção das curadoras Emma Lavigne e Cécile Debray, ao lado de artistas inesquecíveis como Frida Kahlo, Louise Bourgeois e Valérie Belin. A exposição, imperdível, é organizada pelo renomado Centro Georges Pompidou, em Paris, que abriga a maior coleção de arte contemporânea da Europa.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "bb.com.br",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "Kyoto",
+                    "button": "but_it2.png",
+                    "data": [
+                        {
+                            "title": "PAZ E TRANQUILIDADE",
+                            "image": "bambu_Mobile.jpg",
+                            "texto": "Uma estonteante visão do verde enche os olhos assim que entramos na Floresta de Bambu Sagano, localizada no bairro Arashiyama, nos arredores de Kyoto. Cobrindo uma área de aproximadamente 20 quilômetros quadrados, a floresta é fonte de paz, tranquilidade e introspecção. A beleza natural, a estética longilínea e a sinfonia produzida pelo vento soprando entre os galhos são inesquecíveis. Por ser forte e durável, há séculos o bambu é muito usado por artesãos japoneses para produzir diversos artigos, como o tradicional hashi. A trilha, cercada de bambus imensos dos dois lados, oferece uma visão pitoresca e serena da grandiosa plantação.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": null,
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "DESLUMBRANTE",
+                            "image": "teatro_Mobile.jpg",
+                            "texto": "Uma combinação perfeita de movimentos precisos e delicados, melodia hipnotizante e figurino ricamente elaborado faz do balé Miyako Odori um dos mais disputados do teatro Kaburenjo. Durante o mês de abril, acontece a apresentação da primavera, na qual gueixas dançam um verdadeiro balé japonês ao som de shamisen (tipo de banjo), flautas e tambores enquanto entoam cantos intrigantes. Prefira os assentos não reservados, nos quais se senta em tatames no chão, uma experiência autêntica da cultura local. A iluminação e a decoração são impecáveis, assim como o ritmo e a harmonia das gueixas.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "miyako-odori.jp",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "TARDES FLORIDASA",
+                            "image": "parque_Mobile.jpg",
+                            "texto": "Localizado em Gion, o Parque Maruyama aparenta ser comum e tranquilo com seus templos, lagos e jardins. Mas durante a estação de florescimento das inúmeras cerejeiras que cobrem o local, chamada de hanami e que acontece em abril, tudo se transforma. Os japoneses se reúnem anualmente para celebrar esse delicado acontecimento, que recobre o Parque de charmosas flores brancas e faz exalar um aroma frutado irresistível. Famílias fazem piqueniques, crianças brincam e festas são organizadas para celebrar essa relação simbólica e afetiva dos japoneses com as icônicas cerejeiras.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": null,
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "Florença",
+                    "button": "but_it3.png",
+                    "data": [
+                        {
+                            "title": "NUOVA CLASSICITÀ",
+                            "image": "Lungarno_Mobile.jpg",
+                            "texto": "Bem localizado em um dos pontos mais desejados de Florença, no lado esquerdo do Rio Arno, entre as pontes Vechio e S. Trinita, o Hotel Lungarno possui uma atmosfera mágica e uma hospitalidade incomparável. O charme e a classe do Hotel não são mera coincidência. O empreendimento é da família Ferragamo, que está no ramo hoteleiro (e no mercado da moda) desde 1955.  O design dos 73 quartos, inspirado na nuova classicità, é da arquiteta Michele Bönan. Com móveis antigos e detalhes elegantes, recria belamente o ambiente das tradicionais residências da aristocracia italiana. O Hotel Lungarno ainda abriga o White Iris Beauty Spa, um bar, além de um dos melhores restaurantes da cidade, o Borgo San Jocopo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "lungarnocollection.com",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "BUONGIORNO!",
+                            "image": "Palagio_Mobile.jpg",
+                            "texto": "Não há maneira melhor de começar o dia em Florença do que com o belo café da manhã do restaurante Il Palagio, apreciado no terraço, com uma vista encantadora dos jardins internos do Four Seasons Hotel. Estrelado pelo Guia Michelin e comandado pelo renomado chef Vito Mollica, o restaurante utiliza somente ingredientes frescos de produtores artesanais. No farto café da manhã, oferece uma ampla variedade de itens à la carte, além de opções americanas, saudáveis  e clássicos da gastronomia toscana, como cornettos, geleias e queijos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "fourseasons.com/florence",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "OBRA-PRIMA",
+                            "image": "Grifoni.jpg",
+                            "texto": "Aberta em Florença desde 1956, no famoso Antiquarians District, a Vittorio Grifoni ganhou fama como uma das melhores restauradoras de móveis da Itália e hoje produz belíssimas criações próprias. Em abril, a marca apresenta seus últimos lançamentos no Salone del Mobile 2013 e promete causar furor com suas peças. Criada por meio de técnicas antigas, as peças traduzem toda emoção e delicadeza florentina, como a cômoda 6567, uma peça atemporal, rica em formas, com acabamento preto e detalhes em prata, ou a delicada bancada 6603, que, com acabamento nas cores areia e tabaco, confere um ar retrô a qualquer ambiente.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "grifoni.it",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cidades": [
+                {
+                    "cidade": "Nice",
+                    "button": "but_it1.png",
+                    "data": [
+                        {
+                            "title": "CARPE NOCTEM!",
+                            "image": "pingala_Mobile.jpg",
+                            "texto": "Um dos lugares mais charmosos para terminar a noite na capital da Côte d'Azur fica no terceiro andar de um dos mais luxuosos hotéis da cidade, o Hotel Palais de la Méditerranée. O charmoso The Pingala Bar possui uma decoração quente, étnica e muito elegante que remete ao clima de Bollywood, abre diariamente das 10horas à meia-noite e abriga 40 pessoas. Com uma interessante seleção de tapas, um completíssimo menu de drinks (com opções personalizadas) e uma estonteante vista do Mar Mediterrâneo no terraço, o lugar convida ao relaxamento e descontração. Em algumas noites, um pianista encanta os presentes com suaves melodias.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "concorde-hotels.com",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "RITMO SUAVE",
+                            "image": "opera_Mobile.jpg",
+                            "texto": "Monumento histórico da cidade, a Opéra de Nice abriga espetáculos ilustres, matinês musicais, óperas, orquestras e concertos, mas um dos destaques da casa são as inesquecíveis apresentações de ballet. O luxo e a sofisticação que o local exala podem ser vistos nas paredes espelhadas, nos lustres ricamente elaborados, na decoração de encher os olhos e no tapete vermelho digno das mais elegantes premières. Coreografias criativas, figurino impecável e convidados especiais fazem parte das apresentações da companhia de ballet da região, criada em 1947. O mês de abril oferece inúmeras opções, entre elas a Oceana, Rhapsody e a Adagietto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "opera-nice.org",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "INVENÇÕES SABOROSAS",
+                            "image": "laromate_Mobile.jpg",
+                            "texto": "Pequeno e elegante, o L'Aromate entra na leva dos bistrôs franceses acolhedores que oferecem uma apresentação tão impecável de seus pratos que chega a ser um pecado desmanchar um trabalho tão artístico para saborear as invenções do chef Mickael Gracieux. Considerado um dos melhores chefs de Nice, Mickael estagiou com nomes de peso, como Joël Robuchon e Alain Ducasse. Com um cardápio sempre em evolução, o L'Aromate oferece pratos ricamente elaborados, como o ravióli de batata com caviar sevruga, e que, fantasticamente, conseguem ser ainda mais deliciosos do que aparentam.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                            "url": "laromate.fr",
+                            "color": "#FFFF",
+                            "font": {
+                                "fontSize": 26,
+                                "fontFamily": "bodoniitalic"
+                            },
+                            "hasChild": true,
+                            "backgroundGradient": {
+                                "type": "linear",
+                                "startPoint": {
+                                    "x": "0%",
+                                    "y": "50%"
+                                },
+                                "endPoint": {
+                                    "x": "1000%",
+                                    "y": "50%"
+                                },
+                                "colors": [
+                                    {
+                                        "color": "#1E1E1E",
+                                        "offset": 0
+                                    },
+                                    {
+                                        "color": "#232323",
+                                        "offset": 0.1
+                                    },
+                                    {
+                                        "color": "#222323",
+                                        "offset": 0.85
+                                    },
+                                    {
+                                        "color": "#383838",
+                                        "offset": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
